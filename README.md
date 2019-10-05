@@ -22,7 +22,7 @@ This project is intended to help us improve our problem solving skills.
 
     * ex. ERROR MESSAGE: "You have entered an invalid zip code"
 
-* [ ] Insert a concise about section above the search bar.
+* [X] Insert a concise about section above the search bar.
 
 * [ ] Generate a list of dogs after the user searches using their zip code.
 
