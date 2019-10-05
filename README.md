@@ -2,35 +2,41 @@
 
 ## What is Adopt Me?
 
-Adopt Me is a mini project thought up by me (and directed by LLCoolRay). Adopt Me will allow users to search for their future pet using information from PetFinder.
+Adopt Me will allow users to search for their future pet using the [PetFinder API](https://www.petfinder.com/developers/). PetFinder is an amazing web application that is geared towards helping animals. To learn more about PetFinder [click here](https://www.petfinder.com/).
 
 ## Our Goals
 
-The goal of Adopt Me is to help users search for their ideal pet  by display information from PetFinder and. This mini project should help me develop some front end and back end skills. This will also help sharpen the skills of LLCool
+The goal of Adopt Me is to help users search for their ideal pet by displaying information using the PetFinder API.
+
+This project is intended to help us improve our problem solving skills.
 
 ## TODO
 
 ### Site
 
-* Customize the template from bootstrap to have a video of a dog on the right.
+* [ ] Change the site background to a video of a dog.
 
-* Customize the template from bootstrap to have a search bar where the user can search by zip code.
+* [ ] Create a location/search bar to allow the user to enter their zip code.
 
-  * When searching by zip code make sure an error message is given to the user if they use anything besides numbers.
+  * Create an error message if the user enters either an invalid zip code or a non-numerical value(s).
 
-  * If entering too many or too little numbers be sure to also give an error message stating "please use 5 numbers for zip code"
+    * ex. ERROR MESSAGE: "You have entered an invalid zip code"
 
-* Have a short intro above the search bar.
+* [ ] Insert a concise about section above the search bar.
 
-* Have a list of dogs pop up after searching by zip code.
+* [ ] Generate a list of dogs after the user searches using their zip code.
 
-* Have the ability to click on each dog in the list.
+* [ ] Have the ability to click on each dog in the list.
 
-* Each dog has a profile page.
+* [ ] Each dog has a profile page.
 
 
 ### API
 
-review documentation
-Integrate the API provided by PetFinder  
-Have the information
+* [ ] Review the PetFinder API Documentation.
+
+* [ ] Gather the necessary information using the PetFinder API.
+
+* [ ] Create a location search feature using zip codes
+
+* [ ] Integrate the PetFinder API into site.
