@@ -32,5 +32,5 @@ The goal of Adopt Me is to help users search for their ideal pet  by display inf
 ### API
 
 review documentation
-Integrate the API provided by Petfinder  
+Integrate the API provided by PetFinder  
 Have the information
