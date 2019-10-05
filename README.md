@@ -14,7 +14,9 @@ This project is intended to help us improve our problem solving skills.
 
 ### Site
 
-* [ ] Change the site background to a video of a dog.
+* [ ] Change the site's color theme to a video of a dog.
+
+* [ ] Change the site's background to a video of a dog.
 
 * [ ] Create a location/search bar to allow the user to enter their zip code.
 
