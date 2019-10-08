@@ -14,7 +14,7 @@ This project is intended to help us improve our problem solving skills.
 
 ### Site
 
-* [ ] Change the site's color theme to a video of a dog.
+* [ ] Change the site's color theme on home page.
 
 * [ ] Change the site's background to a video of a dog.
 
@@ -24,7 +24,7 @@ This project is intended to help us improve our problem solving skills.
 
     * ex. ERROR MESSAGE: "You have entered an invalid zip code"
 
-* [X] Insert a concise about section above the search bar.
+* [x] Insert a concise about section above the search bar.
 
 * [ ] Generate a list of dogs after the user searches using their zip code.
 
